@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+.header, .hero, .body, .footer{
+    background-color: #A0C3F9; 
+    margin: 20px 0;
+    padding: 15px 0;
+}
+.brand, .global-nav, .todo{padding: 5px;}
+.box{background-color: #CEE2FB; margin-bottom: 15px;}
+.feature, .call-to-action{
+    height: 80px!important;
+}
+.article-feature, .article-listings, .sidebar-feature{
+    height: 400px!important;
+    margin-top: 15px;
+}
